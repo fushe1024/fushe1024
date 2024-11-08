@@ -16,7 +16,7 @@ I am a college student, a boy born in 2004🙋‍♂️ and I am an open source 
 
 ### ⚙️ Text Editor & IDE 
 
-[![My Skills](https://skillicons.dev/icons?i=vim,sublime,vscode,webstorm,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sublime,vscode,webstorm,visualstudio)](https://skillicons.dev)
 
 ### ✨ GitHub Stats
 
